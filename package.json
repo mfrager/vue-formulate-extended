@@ -19,7 +19,7 @@
     "test:unit:watch": "vue-cli-service test:unit --coverage --watch"
   },
   "peerDependencies": {
-    "@braid/vue-formulate": "2.4.3",
+    "@braid/vue-formulate": "2.5.3",
     "imask": "^6.0.5",
     "vue": "^2.6.11"
   },
@@ -34,7 +34,7 @@
     "@vue/test-utils": "^1.0.3",
     "flush-promises": "^1.0.2",
     "imask": "^6.0.5",
-    "node-sass": "^7.0.1",
+    "sass": "^1.53.0",
     "rollup": "^2.18.1",
     "rollup-plugin-auto-external": "^2.0.0",
     "rollup-plugin-internal": "^1.0.4",
